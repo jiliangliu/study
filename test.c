@@ -22,6 +22,6 @@ void main()
 		LED=1;
 		delay(200);
 		LED=0;
-		delay(200);
+		delay(200);//test
 	}
 }
